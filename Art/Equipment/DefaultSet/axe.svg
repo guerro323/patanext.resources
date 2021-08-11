@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100"
-   height="100"
-   viewBox="0 0 26.458333 26.458334"
+   width="262.80597"
+   height="331.52148"
+   viewBox="0 0 69.534078 87.715062"
    version="1.1"
    id="svg1664"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -15,30 +15,35 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1666"
-     pagecolor="#ffffff"
+     pagecolor="#e5e5e5"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
      units="px"
      inkscape:zoom="0.74118967"
-     inkscape:cx="-138.29119"
-     inkscape:cy="-42.499243"
+     inkscape:cx="34.404149"
+     inkscape:cy="19.563144"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs1661" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(38.693722,30.29263)">
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.503719px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -27.106392,-30.29263 v 9.05683 c 0,0 4.06379,0.40352 7.19048,1.05833 3.12669,0.65481 6.43662,0 6.43662,0 l 2.05105,-1.05833 h 5.2260497 c 0,0 1.6817,9.1422 -4.9862997,16.7410996 0,0 -3.2993,-8.9048996 -9.973,-8.9048996 -2.7907,0 -4.684,0.6961 -5.9449,1.5059 v 55.43483 l 0.8129,1.18127 v 9.6093 l -1.9673,3.09073 -1.9673,-3.09073 v -9.6093 l 0.8128,-1.18127 V -9.8846004 c 0,-8.1493096 -7.69093,-9.7683896 -7.69093,-9.7683896 l -1.5875,-1.58281 h 9.27843 v -5.3273 z"

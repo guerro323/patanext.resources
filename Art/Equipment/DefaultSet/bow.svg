@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100"
-   height="100"
-   viewBox="0 0 26.458333 26.458334"
+   width="205.96353"
+   height="293.67816"
+   viewBox="0 0 54.494517 77.702349"
    version="1.1"
    id="svg1664"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -25,20 +25,25 @@
      showgrid="false"
      units="px"
      inkscape:zoom="0.37059484"
-     inkscape:cx="-424.99243"
-     inkscape:cy="-295.47093"
+     inkscape:cx="-532.92701"
+     inkscape:cy="-201.02816"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs1661" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(35.814569,25.28627)">
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -30.673291,-25.286037 c -0.47946,-0.0308 -5.15666,3.003703 -5.14124,5.249053 0.0159,2.31786 4.87734,4.2523 4.87734,4.2523 12.20309,4.88579 11.37212,21.2006502 11.63025,25.4861902 h -1.49428 v 3.8625098 3.86251 h 1.49428 c -0.25813,4.28555 0.57284,20.60076 -11.63025,25.48656 0,0 -4.86143,1.93408 -4.87734,4.25194 -0.0154,2.24535 4.66178,5.28124 5.14124,5.24905 v 0.002 c 0.0156,-10e-4 0.0265,-10e-4 0.0331,-0.0145 -0.46859,-0.76566 -1.44592,-2.72663 -1.6179,-3.57977 -0.35555,-1.76431 -0.51656,-3.58237 0.72953,-4.17838 10.59042,-5.06583 15.54625,-12.6674 16.71278,-21.97421 -1.35587,-0.89878 -3.06111,-1.71938 -3.06111,-3.93502 v -2.71083 l -0.34472,-0.19879 v -2.26056 -2.2602 l 0.34472,-0.19914 V 8.3938462 c 0,-2.21564 1.70524,-3.03624 3.06111,-3.93502 -1.16653,-9.30681 -6.12236,-16.9083802 -16.71278,-21.9742102 -1.24609,-0.59601 -1.08508,-2.41407 -0.72953,-4.17838 0.17198,-0.85279 1.14931,-2.814113 1.61794,-3.579893 -0.006,-0.007 -0.0177,-0.0113 -0.0331,-0.0124 z m 12.01576,36.840983 v 2.00907 2.00908 l -1.11018,-0.64128 v -1.3678 -1.36779 z"
